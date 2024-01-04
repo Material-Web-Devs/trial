@@ -25,17 +25,17 @@ const Sidebar = ({children}) => {
             icon:<FaUserAlt/>
         },
         {
-            path:"/analytics",
+            path:"/academics",
             name:"Academics",
             icon:<FaGraduationCap/>
         },
         {
-            path:"/comment",
+            path:"/events",
             name:"Events",
             icon:<FaBook/>
         },
         {
-            path:"/product",
+            path:"/contact",
             name:"Contact",
             icon:<FaPhone/>
         }
