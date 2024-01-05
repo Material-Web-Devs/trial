@@ -53,15 +53,16 @@ const About = () => {
                     <li>Mr. R.G. Karunathilake</li>
                     <li>Mr. S.D. Karunarathna</li>
                     <li>Mr. D.F. Ranasinghe</li>
-                    <li>Prof.(Mrs.) G.A. Sewvandi</li>
-                    <li>Mr. S.P. Guluwita</li>
-                    <li>Dr. D.Attygalle</li>
-                    <li>Mr. V.S.C. Weragoda</li>
-                    <li>Mr. A.M.P.B. Samarasekara</li>
-                    <li>Dr. D.A.S. Amarasinghe</li>
-                    <li>Mr. S.V. Udayakumara</li>
-                    <li>Dr. (Mrs.) H.S. Sitinamaluwa</li>
-                    <li>Dr. A.A.G.A. Abeygunawardane</li>
+                    <li>Mr. M.T.M.R. Jayaweera</li>
+                    <li>Mr. M.A.P.C. Gunawardana</li>
+                    <li>Mr. B.A.D.T.M. Punchihewa</li>
+                    <li>Mr. W.A.J.T.M. Wanasinghe</li>
+                    <li>Mr. G.D. Chandrakumar</li>
+                    <li>Mr. R.R.P. Perera</li>
+                    <li>Mr. H. Amal</li>
+                    <li>Mr. G.D.S. Rajapaksha</li>
+                    <li>Mrs. D.M. Jayawardana</li>
+                    <li>Mr. H.J.T.R. Peiris</li>
                 </ul>
             </div>
         </div>
