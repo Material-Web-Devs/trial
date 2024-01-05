@@ -32,17 +32,36 @@ const About = () => {
                     <li>Mr. V. Sivahar</li>
                     <p>Student Counsellor, Head, Department of Materials Science and Engineering, Director/ Quality Assuarance Chairman/IQAU</p>
 
-                    <li>Prof. S.U</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
-                    <li>Mr. V. Sivahar</li>
+                    <li>Prof. S.U. Adikary</li>
+                    <li>Prof. G.I.P. de Silva</li>
+                    <li>Prof.(Mrs.) G.A. Sewvandi</li>
+                    <li>Mr. S.P. Guluwita</li>
+                    <li>Dr. D.Attygalle</li>
+                    <li>Mr. V.S.C. Weragoda</li>
+                    <li>Mr. A.M.P.B. Samarasekara</li>
+                    <li>Dr. D.A.S. Amarasinghe</li>
+                    <li>Mr. S.V. Udayakumara</li>
+                    <li>Dr. (Mrs.) H.S. Sitinamaluwa</li>
+                    <li>Dr. A.A.G.A. Abeygunawardane</li>
+                </ul>
+            </div>
+
+            <div class='non-aca-staff'>
+                <h2>Non-Academic Staff</h2>
+
+                <ul>
+                    <li>Mr. R.G. Karunathilake</li>
+                    <li>Mr. S.D. Karunarathna</li>
+                    <li>Mr. D.F. Ranasinghe</li>
+                    <li>Prof.(Mrs.) G.A. Sewvandi</li>
+                    <li>Mr. S.P. Guluwita</li>
+                    <li>Dr. D.Attygalle</li>
+                    <li>Mr. V.S.C. Weragoda</li>
+                    <li>Mr. A.M.P.B. Samarasekara</li>
+                    <li>Dr. D.A.S. Amarasinghe</li>
+                    <li>Mr. S.V. Udayakumara</li>
+                    <li>Dr. (Mrs.) H.S. Sitinamaluwa</li>
+                    <li>Dr. A.A.G.A. Abeygunawardane</li>
                 </ul>
             </div>
         </div>
