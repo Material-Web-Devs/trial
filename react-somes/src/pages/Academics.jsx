@@ -325,135 +325,124 @@ const Academics = () => {
                     </tr>
 
                     <tr>
-                        <td>Development of advanced polymer composites using natural resins</td>
-                        <td>Mr.AMPB Samarasekara</td>
+                        <td>Design of Natural Fiber and Waste Paper Composite using Numerical Analysis Method</td>
+                        <td>Mr S.V. Udayakumara</td>
                     </tr>
 
                     <tr>
-                        <td>Development of cellulose based nano-fibers by electrospinning techniques</td>
-                        <td>Mr.AMPB Samarasekara</td>
+                        <td>Design and Fabrication of Split-Hopkinson Pressure Bar Apparatus to Investigate High Strain Rate Mechanical Behavior of Low Carbon Steel.	</td>
+                        <td>Dr A.A.G.A Abeygunawardane</td>
                     </tr>
 
                     <tr>
-                        <td>Development of open-source software for polymer composites analysis</td>
-                        <td>Mr AMPB Samarasekara</td>
+                        <td>Designing of Rubber based Strain Sensor as a Vehicle Tire Performance Indicator	</td>
+                        <td>Mr V.S.C Weragoda</td>
                     </tr>
 
                     <tr>
-                        <td>Extraction of natural dyes from selected plant sources and its application in fabrics</td>
-                        <td>Mr SV Udayakumara</td>
+                        <td>Determine the Relationship between Corrosion Rate and Grain Size of Low Carbon Steel</td>
+                        <td>Mr V. Sivahar</td>
                     </tr>
 
                     <tr>
-                        <td>Development of new bio-based adhesive for paper/cardboard</td>
-                        <td>Mr SV Udayakumara</td>
+                        <td>Double Layer Capacitor Based Model for Super Capacitors	</td>
+                        <td>Dr. S. Amarasinghe</td>
                     </tr>
 
                     <tr>
-                        <td>Preparation and characterization of LDPE based wood-plastic composites reinforced with clay.</td>
-                        <td>Mr SV Udayakumara</td>
+                        <td>Electrode - Electrolyte Interface Analysis by Molecular Dynamic Simulation	</td>
+                        <td>Dr.(Mrs).H.S Sitinamaluwa</td>
                     </tr>
 
                     <tr>
-                        <td>Preparation Of High-Quality Graphene Oxide From Sri Lankan Vein Graphite</td>
-                        <td>Dr.HS Sitinamaluwa</td>
+                        <td>Evaluation of Performance of Modified Graphene based Materials in Latex Films	</td>
+                        <td>Dr.(Mrs).N.M.V.K. Liyanage</td>
                     </tr>
 
                     <tr>
-                        <td>Activated graphene oxide for removal of organic pollutant from wastewater</td>
-                        <td>Dr.HS Sitinamaluwa</td>
+                        <td>Evaluation of Performance of Modified Graphene based Materials in Tire Tread Formulations	</td>
+                        <td>Dr.(Mrs).N.M.V.K. Liyanage</td>
                     </tr>
 
                     <tr>
-                        <td>Optimization of the Extraction of Nano CaO powder from eggshells for agricultural applications</td>
-                        <td>Prof. AS Galhenage</td>
+                        <td>Investigation of Electrical Properties of Micro Crystalline Cellulose based Composite Materials	</td>
+                        <td>Mr. A.M.P.B. Samarasekara</td>
                     </tr>
 
                     <tr>
-                        <td>Synthesis of Fluoride-Containing Varnish for Application to the tooth surface</td>
-                        <td>Prof. AS Galhenage</td>
+                        <td>Investigation of Thermo-Mechanical Behaviour in Polymer based Mallet Compound with Graphite	</td>
+                        <td>Dr A.A.G.A Abeygunawardane</td>
                     </tr>
 
                     <tr>
-                        <td>Development of petroleum oil quality analyser based on optical metrological techniques</td>
-                        <td>Dr D Attygalle</td>
+                        <td>Measurement of Long Term Force Decay in Rubber Components	</td>
+                        <td>Mr V.S.C Weragoda</td>
                     </tr>
 
                     <tr>
-                        <td>Influence of particle size on biocompatibility of hydroxyapatite nanoparticles</td>
-                        <td>Prof. SU Adikary</td>
+                        <td>Measurement of Steady State Thermal Conductivity of  Rubber Compounds</td>
+                        <td>Mr V.S.C Weragoda</td>
                     </tr>
 
                     <tr>
-                        <td>Numerical optimization of band gap gadient of CIGS solar cell</td>
-                        <td>Dr.D Attygalle</td>
+                        <td>MIE-Theory-based Investigation of the Effect of Size Distribution on the Surface Plasmon Absorption of Silver Nano Particles</td>
+                        <td>Mr. A.M.P.B. Samarasekara</td>
                     </tr>
 
                     <tr>
-                        <td>Modeling and Simulation of Solid State Micro-pump Based on Piezoelectric Ceramics</td>
-                        <td>Prof. SU Adikary</td>
+                        <td>Modeling and Validation of  Nano Hydroxyappetite formation for Medical Applications</td>
+                        <td>Prof. S.U Adikari</td>
                     </tr>
 
                     <tr>
-                        <td>Modeling and Simulation of piezoelectric nano generators based on nano wire arrays</td>
-                        <td>Prof. SU Adikary</td>
+                        <td>Modeling of Laser Assisted Thermal Reduction of Graphene Oxide for the Development of a Strain Gauge</td>
+                        <td>Dr.D. Attygalle</td>
                     </tr>
 
                     <tr>
-                        <td>Development of an exhaled breath analyzer for early detection of diseases</td>
-                        <td>Dr DAS Amarasinghe</td>
+                        <td>Modelling of Micro Size Ultrasonic Generator and Receiver Characteristics of  Lead Zirconate Titanate and  Polyvinylidene Fluoride using Finite  Element  Analysis</td>
+                        <td>Prof. S.U Adikari</td>
                     </tr>
 
                     <tr>
-                        <td>Studying the effect of aging temperature and quenching medium on the hardness of AL6063 Alloy</td>
-                        <td>Dr.GIP De Silva</td>
+                        <td>Modelling the Mechanical Behavior of Micro Crystalline Cellulose based Polymer Composites</td>
+                        <td>Mr. A.M.P.B. Samarasekara</td>
                     </tr>
 
                     <tr>
-                        <td>Development of low cost bricks using waste foundary dust</td>
-                        <td>Dr.GIP De Silva</td>
+                        <td>Natural Dye Extraction From Lane Areca</td>
+                        <td>Mr S.V. Udayakumara</td>
                     </tr>
 
                     <tr>
-                        <td>Estimation of Weibull modulus through ultrasonic velocity measurements</td>
+                        <td>Non-Destructive Monitoring of Fruit Ripening</td>
+                        <td>Dr. S. Amarasinghe</td>
+                    </tr>
+
+                    <tr>
+                        <td>Quality Control of Manufactured Tires Through Non-Destructive Test</td>
                         <td>Mr.V Sivahar</td>
                     </tr>
 
                     <tr>
-                        <td>Monitoring of FRP degradation with ultrasound</td>
-                        <td>Mr.V Sivahar</td>
+                        <td>Simulation and  Analysis of  Effect of Halide Ions of Perovskite on Perovskite Solar Cells Performances</td>
+                        <td>Dr.(Mrs).A.S Galhenage</td>
                     </tr>
 
                     <tr>
-                        <td>Dynamic Mechanical Analysis of Elastomers</td>
-                        <td>Mr.VSC Weragoda</td>
+                        <td>Simulation Study on the Insulation Properties of Cotton Fibre–LDPE Composite</td>
+                        <td>Mr S.V. Udayakumara</td>
                     </tr>
 
                     <tr>
-                        <td>Measurement of effective heat transfer in elastomers</td>
-                        <td>Mr.VSC Weragoda</td>
+                        <td>Suitability of Using Aruwakkalu Limestone and Ship Blasting Sand to Produce Paving Blocks Used in Roads</td>
+                        <td>Eng. S.P Guluwita</td>
                     </tr>
 
                     <tr>
-                        <td>Conductive Elastomeric Sensors</td>
-                        <td>Mr.VSC Weragoda</td>
+                        <td>Use of Aruwakkalu Sand for Medium Strength Concrete</td>
+                        <td>Eng. S.P Guluwita</td>
                     </tr>
-
-                    <tr>
-                        <td>Numerical Prediction of Curing Status of Graphite based Tire Compounds under Vulcanization</td>
-                        <td>Dr AAGA Abeygunawardane</td>
-                    </tr>
-
-                    <tr>
-                        <td>Suitability of using Al sludge waste to produce paving block</td>
-                        <td>Mr.SP Guluwita</td>
-                    </tr>
-
-                    <tr>
-                        <td>Suitability of  extracting aluminium from aluminium sludge waste</td>
-                        <td>Mr.SP Guluwita</td>
-                    </tr>
-
                 </table>
             </div>
 
