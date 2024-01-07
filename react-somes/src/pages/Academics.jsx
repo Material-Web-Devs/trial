@@ -457,6 +457,77 @@ const Academics = () => {
                 </table>
             </div>
 
+            <br></br>
+
+            <div>
+                <h3>Postgraduate Research Projects</h3>
+                <br></br>
+
+                <table>
+                    
+                    <tr>
+                        <th>Researcher</th>
+                        <th>Topic</th>
+                        <th>Supervisor</th>
+                    </tr>
+
+                    <tr>
+                        <td>Ms. R.N.P.Gunarathna</td>
+                        <td>Development of Rapid lifetime determination for electrical cables</td>
+                        <td>Mr. V.S.C. Weragoda<br></br>
+                            Dr. D. Attygalle<br></br>
+                            Dr. D.A.S. Amarasinghe</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ms. M.A.H.Yasassri</td>
+                        <td>Synthesizing of environmental friendly perovskite structure materials for photovoltaic application</td>
+                        <td>Dr. (Mrs) A.S. Galhenage</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ms. L.G.D.Somaweera</td>
+                        <td>Theoretical study of DTG signal analysis</td>
+                        <td>Dr. D.A.S. Amarasinghe<br></br>
+                        Mr. V.S.C. Weragoda<br></br>
+                        Dr. D. Attygalle</td>
+                    </tr>
+
+                    <tr>
+                        <td>Mr. G.A.T.Sandanuwan</td>
+                        <td>Effects of plasma treatment on surface properties of materials</td>
+                        <td>Dr. D. Attygalle<br></br>
+                        Mr. V.S.C. Weragoda <br></br>
+                        Dr. D.A.S. Amarasinghe</td>
+                    </tr>
+
+                    <tr>
+                        <td>Mrs. L.W.U.R.Dilrukshi</td>
+                        <td>Study the influence of precipitate size distribution on mechanical properties of aluminum 6063 alloy</td>
+                        <td>Dr. G.I.P. De Silva</td>
+                    </tr>
+
+                    <tr>
+                        <td>Mr. K.A.M.M.Kumarasinghe</td>
+                        <td>Band gap engineering of organic-inorganic hybrid perovskite materials for solar cells</td>
+                        <td>Dr. (Mrs) A.S. Galhenage</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ms. M.K.A.Sandaruwani</td>
+                        <td>Utilization of Sri Lankan graphite for next generation electrochemical capacitors</td>
+                        <td>Dr. (Mrs.) H.S. Sitinamaluwa</td>
+                    </tr>
+
+                    <tr>
+                        <td>Mr. M.B.A.Deemantha</td>
+                        <td>Developing a model to predict the propagation of sulfide stress corrosion of steel used for petroleum pipelines</td>
+                        <td>Dr. G.I.P. De Silva</td>
+                    </tr>
+                    
+                </table>
+            </div>
+
             
         </div>
     );
