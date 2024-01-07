@@ -3,7 +3,7 @@ import {
     FaHome,
     FaBars,
     FaUserAlt,
-    FaBook,
+    FaPlay,
     FaGraduationCap,
     FaPhone
 }from "react-icons/fa";
@@ -32,7 +32,7 @@ const Sidebar = ({children}) => {
         {
             path:"/events",
             name:"Events",
-            icon:<FaBook/>
+            icon:<FaPlay/>
         },
         {
             path:"/contact",

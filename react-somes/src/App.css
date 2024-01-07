@@ -12,6 +12,8 @@ main{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .sidebar{
+    position:sticky;
+    top:0;
     background: #275688;
     color: #fff;
     height: 100vh;
